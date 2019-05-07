@@ -18,7 +18,7 @@ body {
   width: 40%;
   margin: 10% auto 5%;
   font-family: 'Lobster', cursive;
-  text-align: center;
+  text-align: unset;
   text-shadow: 5px 0 #232931;
   font-size: 5rem;
   color: #4ECCA3;
